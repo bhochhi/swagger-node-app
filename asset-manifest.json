@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swagger-node-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/swagger-node-app/static/js/main.a3ec1e26.chunk.js",
+    "main.js.map": "/swagger-node-app/static/js/main.a3ec1e26.chunk.js.map",
+    "runtime~main.js": "/swagger-node-app/static/js/runtime~main.a699511e.js",
+    "runtime~main.js.map": "/swagger-node-app/static/js/runtime~main.a699511e.js.map",
+    "static/js/2.ede10acd.chunk.js": "/swagger-node-app/static/js/2.ede10acd.chunk.js",
+    "static/js/2.ede10acd.chunk.js.map": "/swagger-node-app/static/js/2.ede10acd.chunk.js.map",
+    "index.html": "/swagger-node-app/index.html",
+    "precache-manifest.615a768adb8467689bb20eb9615bfd10.js": "/swagger-node-app/precache-manifest.615a768adb8467689bb20eb9615bfd10.js",
+    "service-worker.js": "/swagger-node-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/swagger-node-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/swagger-node-app/static/media/logo.5d5d9eef.svg"
+  }
+}
